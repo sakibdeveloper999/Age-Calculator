@@ -6,7 +6,7 @@ This app calculates a user’s age accurately and provides advanced features lik
 ---
 
 ## 🔗 Live Demo
-> *(Add your live site link here if deployed)*
+> *([https://sakibdeveloper999.github.io/Age-Calculator/])*
 
 ---
 
@@ -32,14 +32,14 @@ This app calculates a user’s age accurately and provides advanced features lik
 ---
 
 ## 📂 Project Structure
-
-Age-Calculator/
+``
+ Age-Calculator/
 │
 ├── index.html # Main HTML file
 ├── style.css # Styling and layout
 ├── script.js # JavaScript functionality
 └── README.md # Project documentation
-
+``
 
 ---
 
